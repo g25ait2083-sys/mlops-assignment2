@@ -25,10 +25,21 @@ Open the Kaggle notebook link below and run all cells.
 
 ## Results
 
-Epoch|  	Training Loss |	  Validation Loss |   	Accuracy   | 	F1
-1    |   	2.543057      |	  2.389233        |  	  0.583125   | 	0.582607
-2    |    1.955018      |	  2.249788        |  	  0.603750   | 	0.605045
-3    |   	1.433714      |	  2.274478        |  	  0.608750   | 	0.611895
+## Training Results
+
+| Epoch | Training Loss | Validation Loss | Accuracy | F1 |
+|-------|--------------|-----------------|----------|----|
+| 1 | 2.543057 | 2.389233 | 0.583125 | 0.582607 |
+| 2 | 1.955018 | 2.249788 | 0.603750 | 0.605045 |
+| 3 | 1.433714 | 2.274478 | 0.608750 | 0.611895 |
+
+## Final Evaluation Metrics
+
+| Metric | Score |
+|--------|-------|
+| Accuracy | 0.608750 |
+| F1 Score | 0.611895 |
+| Eval Loss | 2.274478 |
 
 
 
