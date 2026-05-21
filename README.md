@@ -33,7 +33,7 @@ Epoch|  	Training Loss |	  Validation Loss |   	Accuracy   | 	F1
 
 
 ## Links
-- Kaggle Notebook: https://www.kaggle.com/code/rashmikumari2509/mlops-assign2/
+- Kaggle Notebook: https: https://www.kaggle.com/code/rashmikumari2509/mlops-assign2/
 - Hugging Face Model: https://huggingface.co/Rashmii30/distilbert-goodreads-genres
 - W&B Dashboard: https: https://wandb.ai/g25ait2083-iit/mlops-assignment2
   
